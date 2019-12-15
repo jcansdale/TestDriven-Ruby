@@ -1,0 +1,18 @@
+
+{   // See https://docs.microsoft.com/en-us/visualstudio/online/reference/configuring
+
+    // Install Ruby and TestDriven extensions
+    "extensions": [
+        "rebornix.Ruby",
+        "JamieCansdale.testdriven"
+    ],
+  
+    "settings": {
+        "ruby.useBundler": true,
+        "ruby.useLanguageServer": true // Required by TestDriven
+    },
+  
+    // Run Bash script in .devcontainer directory
+    "postCreateCommand": "/bin/bash ./.devcontainer/post-create.sh > ~/post-create.log"
+  }
+  
