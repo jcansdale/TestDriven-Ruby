@@ -8,7 +8,6 @@
     ],
   
     "settings": {
-        "ruby.useBundler": true,
         "ruby.useLanguageServer": true // Required by TestDriven
     },
   
