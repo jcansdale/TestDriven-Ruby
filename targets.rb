@@ -1,7 +1,7 @@
 # Sample target methods
 
 def in_main
-  'On main module'
+  'In file'
 end
 
 module Mod
