@@ -6,11 +6,11 @@
 
 ![image](https://user-images.githubusercontent.com/11719160/71179635-7bf7c500-2268-11ea-987c-d84474137186.png)
 
-3. Load the new environment name and open `targets.rb`
+3. Load the new environment and open `targets.rb`
 
 ![image](https://user-images.githubusercontent.com/11719160/71179866-e9a3f100-2268-11ea-83cf-2436a3d32c57.png)
 
-5. Right-click inside any Ruby method and `Debug Method`
+4. Right-click inside any Ruby method and `Debug Method`
 
 ![image](https://user-images.githubusercontent.com/11719160/71180059-51f2d280-2269-11ea-8025-898e91338dae.png)
 
