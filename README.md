@@ -1,4 +1,4 @@
-# Quick Start
+## Quick Start
 
 1. Browse to https://online.visualstudio.com and authenticate
 
@@ -18,6 +18,18 @@ There's a possible issue that might happen the first time the environment loads.
 
 ![image](https://user-images.githubusercontent.com/11719160/71179935-0fc99100-2269-11ea-990d-5f62fe8822d0.png)
 
-Have fun and let me know how you get on. Feel free to send PRs my way! 😄
-
 https://twitter.com/jcansdale
+
+## About
+
+When this repository is loaded by VS Online, it will install the Ruby and TestDriven extensions using a [devcontainer](devcontainer/devcontainer.json).
+
+- Ruby for VS Code by Peng Lv
+https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby
+
+- TestDriven for VS Code by Jamie Cansdale
+https://marketplace.visualstudio.com/items?itemName=JamieCansdale.testdriven
+
+## Misc
+
+Have fun and let me know how you get on. Feel free to send PRs my way! 😄
