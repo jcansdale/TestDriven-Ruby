@@ -22,7 +22,7 @@ https://twitter.com/jcansdale
 
 ## About
 
-When this repository is loaded by VS Online, it will install the Ruby and TestDriven extensions using a [devcontainer](devcontainer/devcontainer.json).
+When this repository is loaded by VS Online, it will install the Ruby and TestDriven extensions using a [devcontainer](.devcontainer/devcontainer.json).
 
 - Ruby for VS Code by Peng Lv
 https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby
