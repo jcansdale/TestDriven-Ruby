@@ -30,6 +30,8 @@ https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby
 - TestDriven for VS Code by Jamie Cansdale
 https://marketplace.visualstudio.com/items?itemName=JamieCansdale.testdriven
 
+In order to work, TestDriven requires an active Ruby language server. This can done by enabeling the `"ruby.useLanguageServer": true` setting of the Ruby extnesion or by installing [Ruby Solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph). For simplicity and speed of loading I've enabled the `"ruby.useLanguageServer": true` setting in [devcontainer.json](https://github.com/jcansdale/ruby-test/blob/dc8b1e7df0b8b090e7097ce4921e3cf64a2e0057/.devcontainer/devcontainer.json#L11).
+
 ## Misc
 
 Have fun and let me know how you get on. Feel free to send PRs my way! 😄
