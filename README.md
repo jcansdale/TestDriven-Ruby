@@ -18,8 +18,6 @@ There's a possible issue that might happen the first time the environment loads.
 
 ![image](https://user-images.githubusercontent.com/11719160/71179935-0fc99100-2269-11ea-990d-5f62fe8822d0.png)
 
-https://twitter.com/jcansdale
-
 ## About
 
 When this repository is loaded by VS Online, it will install the Ruby and TestDriven extensions using a [devcontainer](.devcontainer/devcontainer.json).
@@ -35,3 +33,5 @@ In order to work, TestDriven requires an active Ruby language server. This can d
 ## Misc
 
 Have fun and let me know how you get on. Feel free to send PRs my way! 😄
+
+https://twitter.com/jcansdale
