@@ -13,7 +13,7 @@ module Mod
     'In module singleton'
   end
 
-  def self.in_module_singleton_2
+  def Mod.in_module_singleton_2
     'In module singleton 2'
   end
 end
