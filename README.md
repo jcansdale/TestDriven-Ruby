@@ -2,7 +2,7 @@
 
 1. Browse to https://online.visualstudio.com and authenticate
 
-2. Create a new environment with `jcansdale/ruby-test` as the `Git Repository`
+2. Create a new environment with `jcansdale/TestDriven-Ruby` as the `Git Repository`
 
 ![image](https://user-images.githubusercontent.com/11719160/71179635-7bf7c500-2268-11ea-987c-d84474137186.png)
 
@@ -28,7 +28,7 @@ https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby
 - TestDriven for VS Code by Jamie Cansdale
 https://marketplace.visualstudio.com/items?itemName=JamieCansdale.testdriven
 
-In order to work, TestDriven requires an active Ruby language server. This can done by enabeling the `"ruby.useLanguageServer": true` setting of the Ruby extnesion or by installing [Ruby Solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph). For simplicity and speed of loading I've enabled the `"ruby.useLanguageServer": true` setting in [devcontainer.json](https://github.com/jcansdale/ruby-test/blob/dc8b1e7df0b8b090e7097ce4921e3cf64a2e0057/.devcontainer/devcontainer.json#L11).
+In order to work, TestDriven requires an active Ruby language server. This can done by enabeling the `"ruby.useLanguageServer": true` setting of the Ruby extnesion or by installing [Ruby Solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph). For simplicity and speed of loading I've enabled the `"ruby.useLanguageServer": true` setting in [devcontainer.json](https://github.com/jcansdale/TestDriven-Ruby/blob/dc8b1e7df0b8b090e7097ce4921e3cf64a2e0057/.devcontainer/devcontainer.json#L11).
 
 ## Misc
 
